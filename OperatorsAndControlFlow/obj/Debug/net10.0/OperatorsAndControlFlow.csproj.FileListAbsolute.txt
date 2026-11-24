@@ -1,0 +1,14 @@
+C:\Users\prajw\OneDrive\Desktop\csharp\week 3\OperatorsAndControlFlow\bin\Debug\net10.0\OperatorsAndControlFlow.exe
+C:\Users\prajw\OneDrive\Desktop\csharp\week 3\OperatorsAndControlFlow\bin\Debug\net10.0\OperatorsAndControlFlow.deps.json
+C:\Users\prajw\OneDrive\Desktop\csharp\week 3\OperatorsAndControlFlow\bin\Debug\net10.0\OperatorsAndControlFlow.runtimeconfig.json
+C:\Users\prajw\OneDrive\Desktop\csharp\week 3\OperatorsAndControlFlow\bin\Debug\net10.0\OperatorsAndControlFlow.dll
+C:\Users\prajw\OneDrive\Desktop\csharp\week 3\OperatorsAndControlFlow\bin\Debug\net10.0\OperatorsAndControlFlow.pdb
+C:\Users\prajw\OneDrive\Desktop\csharp\week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prajw\OneDrive\Desktop\csharp\week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.AssemblyInfoInputs.cache
+C:\Users\prajw\OneDrive\Desktop\csharp\week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.AssemblyInfo.cs
+C:\Users\prajw\OneDrive\Desktop\csharp\week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.csproj.CoreCompileInputs.cache
+C:\Users\prajw\OneDrive\Desktop\csharp\week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.dll
+C:\Users\prajw\OneDrive\Desktop\csharp\week 3\OperatorsAndControlFlow\obj\Debug\net10.0\refint\OperatorsAndControlFlow.dll
+C:\Users\prajw\OneDrive\Desktop\csharp\week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.pdb
+C:\Users\prajw\OneDrive\Desktop\csharp\week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.genruntimeconfig.cache
+C:\Users\prajw\OneDrive\Desktop\csharp\week 3\OperatorsAndControlFlow\obj\Debug\net10.0\ref\OperatorsAndControlFlow.dll
